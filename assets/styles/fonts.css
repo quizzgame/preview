@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Lalezar';
+    src: url('../fonts/Lalezar-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'TS Split-Black';
+    src: url('../fonts/TS_Split-Black.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Dongol';
+    src: url('../fonts/Dongol-Regular.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'FF Malmoom';
+    src: url('../fonts/FFMalmoom-Regular.ttf');
+}
